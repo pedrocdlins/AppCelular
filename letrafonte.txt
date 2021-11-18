@@ -1,0 +1,4 @@
+Aqui está toda a estilização da fonte de todo o aplicativo;
+-Cor
+-Fonte
+-Tamanho
